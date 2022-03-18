@@ -127,11 +127,4 @@ if menu_id=="\U0001F5A5 AI Prediction":
             #DO SOME
     else:
         st.warning("You need to provide data before applying AI Prediction. You can upload a .csv/.xlsx/.xls file in the sidebar.")
-        
-        
-'''
-Résumé : https://share.streamlit.io/dlopezyse/synthia/main
-NLP : https://share.streamlit.io/cdpierse/transformers-interpret-streamlit/main/app.py
-Data Quality : https://share.streamlit.io/baligoyem/dataqtor/main/home.py
-AI Predict : https://share.streamlit.io/asad-mahmood/featureselectionapp/main/app.py
-https://share.streamlit.io/maximelutel/streamlit_prophet/main/streamlit_prophet/app/dashboard.py
+      
